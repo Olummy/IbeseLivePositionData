@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data Directories
+data/
+data_parquet/
+data-error/
+testDataOutput/
+
 # C extensions
 *.so
 
