@@ -10,6 +10,7 @@ data-error/
 testDataOutput/
 data_parquet_historical/
 data.rar
+ml_data/
 
 # C extensions
 *.so
